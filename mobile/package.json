@@ -1,0 +1,29 @@
+{
+  "name": "pothole-detector-mobile",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react-native": "^0.72.0",
+    "react": "^18.2.0",
+    "axios": "^1.4.0",
+    "react-native-camera": "^4.2.1",
+    "react-native-geolocation-service": "^5.3.1",
+    "react-native-maps": "^1.10.0",
+    "react-native-gesture-handler": "^2.12.0",
+    "react-native-reanimated": "^3.3.0",
+    "react-native-screens": "^3.21.0",
+    "@react-navigation/native": "^6.1.7",
+    "@react-navigation/bottom-tabs": "^6.5.11",
+    "react-native-vector-icons": "^9.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.21.0",
+    "@babel/preset-env": "^7.21.0",
+    "@babel/preset-react": "^7.21.0"
+  },
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  }
+}

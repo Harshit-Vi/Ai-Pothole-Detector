@@ -1,0 +1,7 @@
+{
+  "name": "pothole-detector-mobile",
+  "displayName": "Pothole Detector",
+  "version": "0.1.0",
+  "description": "Real-time pothole detection mobile app",
+  "icon": "./app_icon.png"
+}
